@@ -25,10 +25,9 @@ snowballstemmer==1.2.1 \
 six==1.10.0 \
     --hash=sha256:0ff78c403d9bccf5a425a6d31a12aa6b47f1c21ca4dc2573a7e2f32a97335eb1 \
     --hash=sha256:105f8d68616f8248e24bf0e9372ef04d3cc10104f1980f54d57b2ce73a5ad56a
-Pygments==2.1 \
-    --hash=sha256:3e723f70dc47b4ad5ca3ab4f1d1c3f76438b3dc74d6a843ded3e154e8af99838 \
-    --hash=sha256:148e04b185d3541b8d702e8cde3ee5acd06b31cc0d474127baba9f4652b2aaf1 \
-    --hash=sha256:13a0ef5fafd7b16cf995bc28fe7aab0780dab1b2fda0fc89e033709af8b8a47b
+Pygments==2.15.0 \
+    --hash=sha256:77a3299119af881904cd5ecd1ac6a66214b6e9bed1f2db16993b54adede64094 \
+    --hash=sha256:f7e36cffc4c517fbc252861b9a6e4644ca0e5abadf9a113c72d1358ad09b9500
 MarkupSafe==0.23 \
     --hash=sha256:a4ec1aff59b95a14b45eb2e23761a0179e98319da5a7eb76b56ea8cdc7b871c3
 pytz==2015.7 \
