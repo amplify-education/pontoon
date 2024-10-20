@@ -5465,10 +5465,10 @@ internal-ip@^4.3.0:
     default-gateway "^4.2.0"
     ipaddr.js "^1.9.0"
 
-intl-pluralrules@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/intl-pluralrules/-/intl-pluralrules-1.0.0.tgz#918a3d5661e0324bafcfec319492ddf2ced0bf7f"
-  integrity sha512-I5kPt8J50JZvHy6Fj8cme9oLByd4SVX7uYD7JmIPXdGBN2gZtK61bWpe64K7FBP6n7Vr6YHSmYfutzyaT/djFQ==
+intl-pluralrules@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/intl-pluralrules/-/intl-pluralrules-1.0.1.tgz#2d739aa754045e326dececa61249cc900af5b0d7"
+  integrity sha512-Y1ZUnofLtjH1qTQSH8ez05hBIi14Cc53GDtv5sv6HVYdSh4zxK/Dqw156luucmDbx+Yh+rOQ1bQTEMUKeu4dMQ==
   dependencies:
     make-plural "^4.3.0"
 
