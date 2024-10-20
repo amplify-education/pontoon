@@ -15,7 +15,7 @@
     "flow-bin": "0.95.1",
     "highcharts": "7.2.2",
     "highcharts-react-official": "2.2.2",
-    "intl-pluralrules": "1.0.0",
+    "intl-pluralrules": "1.0.1",
     "jest-each": "24.5.0",
     "linkify-it": "2.1.0",
     "lodash.clonedeep": "4.5.0",
